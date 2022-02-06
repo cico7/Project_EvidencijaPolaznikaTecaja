@@ -1,0 +1,14 @@
+C:\Users\CICO\source\repos\EvidencijaPolaznikaTecaja\EvidencijaPolaznikaTecaja\obj\Debug\EvidencijaPolaznikaTecaja.csprojAssemblyReference.cache
+C:\Users\CICO\source\repos\EvidencijaPolaznikaTecaja\EvidencijaPolaznikaTecaja\obj\Debug\EvidencijaPolaznikaTecaja.csproj.CoreCompileInputs.cache
+C:\Users\CICO\source\repos\EvidencijaPolaznikaTecaja\EvidencijaPolaznikaTecaja\bin\Debug\EvidencijaPolaznikaTecaja.exe.config
+C:\Users\CICO\source\repos\EvidencijaPolaznikaTecaja\EvidencijaPolaznikaTecaja\bin\Debug\EvidencijaPolaznikaTecaja.exe
+C:\Users\CICO\source\repos\EvidencijaPolaznikaTecaja\EvidencijaPolaznikaTecaja\bin\Debug\EvidencijaPolaznikaTecaja.pdb
+C:\Users\CICO\source\repos\EvidencijaPolaznikaTecaja\EvidencijaPolaznikaTecaja\obj\Debug\EvidencijaPolaznikaTecaja.exe
+C:\Users\CICO\source\repos\EvidencijaPolaznikaTecaja\EvidencijaPolaznikaTecaja\obj\Debug\EvidencijaPolaznikaTecaja.pdb
+B:\IIS - Informacijski sustavi\OOP - Projekt\EvidencijaPolaznikaTecaja\EvidencijaPolaznikaTecaja\bin\Debug\EvidencijaPolaznikaTecaja.exe.config
+B:\IIS - Informacijski sustavi\OOP - Projekt\EvidencijaPolaznikaTecaja\EvidencijaPolaznikaTecaja\bin\Debug\EvidencijaPolaznikaTecaja.exe
+B:\IIS - Informacijski sustavi\OOP - Projekt\EvidencijaPolaznikaTecaja\EvidencijaPolaznikaTecaja\bin\Debug\EvidencijaPolaznikaTecaja.pdb
+B:\IIS - Informacijski sustavi\OOP - Projekt\EvidencijaPolaznikaTecaja\EvidencijaPolaznikaTecaja\obj\Debug\EvidencijaPolaznikaTecaja.csprojAssemblyReference.cache
+B:\IIS - Informacijski sustavi\OOP - Projekt\EvidencijaPolaznikaTecaja\EvidencijaPolaznikaTecaja\obj\Debug\EvidencijaPolaznikaTecaja.csproj.CoreCompileInputs.cache
+B:\IIS - Informacijski sustavi\OOP - Projekt\EvidencijaPolaznikaTecaja\EvidencijaPolaznikaTecaja\obj\Debug\EvidencijaPolaznikaTecaja.exe
+B:\IIS - Informacijski sustavi\OOP - Projekt\EvidencijaPolaznikaTecaja\EvidencijaPolaznikaTecaja\obj\Debug\EvidencijaPolaznikaTecaja.pdb
